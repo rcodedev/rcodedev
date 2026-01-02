@@ -1,8 +1,6 @@
-## Hi 👋, I'm Rahul
+  ## Hi 👋, I'm Rahul
 
-🚀About Me
-Java Backend Developer | Spring Boot | Microservices
-therahulk09@gmail.com
+
 <!--
 **rcodedev/rcodedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
