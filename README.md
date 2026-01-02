@@ -41,7 +41,7 @@ I'm a Full Stack Developer building secure and scalable web applications. Focuse
  
  ⦁	 API Security (OAuth2, JWT, Role-Based Access Control)
 
-    🧰 Tools
+  🧰 Tools
   
    ⦁	 Git & GitHub
    
