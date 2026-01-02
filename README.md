@@ -38,7 +38,12 @@ Passionate about clean architecture, API security, and cloud-native technologies
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-213ab4329/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com//](https://www.instagram.com/the___.rahul_/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the___.rahul_/)
+
+##
+💡 I enjoy solving complex backend challenges, playing chess, and exploring new technologies in cloud and DevOps.
+
+📌 Let's build something amazing together! 🚀
 
   
 <!--
