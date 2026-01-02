@@ -2,10 +2,8 @@
 
   ##  🚀 About Me
 
-🚀 Java Backend Developer | Spring Boot | Microservices
+I'm a Full Stack Developer building secure and scalable web applications. Focused on backend architecture, API security, and modern front-end development. Always learning and improving to deliver clean, efficient, and reliable solutions.
 
-I build scalable, secure, and high-performance backend systems.
-Passionate about clean architecture, API security, and cloud-native technologies.
 
 🔭 Currently learning: Microservices, Spring Security, Redis
 
