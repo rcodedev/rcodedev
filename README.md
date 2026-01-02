@@ -1,4 +1,5 @@
-  ##                     Hi 👋, I'm Rahul
+##                                                                                                                    <h1 align="center">Hi 👋, I'm Rahul</h1>
+
 
   ##  🚀 About Me
 
