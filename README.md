@@ -7,10 +7,10 @@
 I build scalable, secure, and high-performance backend systems.
 Passionate about clean architecture, API security, and cloud-native technologies.
 
-🔭 Currently learning: Microservices • Spring Security • Redis
-💡 Interested in: Scalable architectures • API security • Distributed systems
-💬 Ask me about: Java • Spring Boot • Spring Security • REST APIs
-📫 Reach me at: therahulk09@gmail.com.com
+**🔭 Currently learning: Microservices • Spring Security • Redis**
+**💡 Interested in: Scalable architectures • API security • Distributed systems**
+**💬 Ask me about: Java • Spring Boot • Spring Security • REST APIs**
+**📫 Reach me at: therahulk09@gmail.com.com**
 
 
   ##  Skills & Technologies
