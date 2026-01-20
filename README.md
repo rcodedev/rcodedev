@@ -1,5 +1,6 @@
 ##                                                                                                                    <h1 align="center">Hi 👋, I'm Rahul</h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=rcodedev&color=blue)
 
   ##  🚀 About Me
 
