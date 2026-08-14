@@ -14,20 +14,19 @@ I'm a Full Stack Developer building secure and scalable web applications. Focuse
 
 💡 Interested in: Scalable architectures, API security, Distributed systems
 
-💬 Ask me about: Java, Spring Boot, Spring Security, REST APIs
+💬 Ask me about: Java, Spring Boot, REST APIs
 
 📫 Reach me at: therahulk09@gmail.com.com
 
 
   ## 🛠️ Skills & Technologies
   🎨 Front-End Development
+  
   ⦁	HTML(Hypertext Markup Language)
   
   ⦁	CSS(Cascading Style Sheets)
   
   ⦁	JavaScript
-  
-  ⦁	React JS
 
   🗄️ Databases
   
@@ -36,15 +35,14 @@ I'm a Full Stack Developer building secure and scalable web applications. Focuse
   ⦁	PostgreSQL
 
   👨‍💻 Backend Development
+  
  ⦁	 Java (Core & Advanced)
  
- ⦁	 Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)
+ ⦁	 Spring Framework (Spring Boot, Spring MVC, Spring Data JPA)
  
- ⦁	 Microservices Architecture (REST APIs, Service Communication)
+ ⦁	 REST APIs
  
  ⦁	 Hibernate & JPA
- 
- ⦁	 API Security (OAuth2, JWT, Role-Based Access Control)
 
   🧰 Tools
   
